@@ -1,0 +1,11 @@
+pandas                  # Manipulação e análise de dados
+numpy                   # Operações numéricas
+scikit-learn            # Algoritmos de Machine Learning
+azure-ai-ml             # Interagir com o Azure Machine Learning
+azure-identity          # Autenticação no Azure
+python-dotenv           # Carregar variáveis de ambiente do arquivo .env
+matplotlib              # Visualização de dados
+seaborn                 # Visualizações estatísticas
+jupyter                 # Usar Jupyter Notebooks
+joblib                  # Salvar e carregar modelos
+scipy                   # Funções científicas e técnicas
