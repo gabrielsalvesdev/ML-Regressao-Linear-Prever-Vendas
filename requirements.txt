@@ -10,3 +10,4 @@ jupyter                 # Usar Jupyter Notebooks
 joblib                  # Salvar e carregar modelos
 scipy                   # Funções científicas e técnicas
 tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
